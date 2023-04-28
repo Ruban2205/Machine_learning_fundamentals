@@ -17,8 +17,7 @@ Linear and Nonlinear Models: Binary and Multiclass classification - Univariate L
 Regression - Multivariate Linear Regression (Predicting Solar Radiation using Regression) -
 Logistic Regression - Perceptron (Logistic Regression using Insurance Fraud Detection),
 Multiple Layer Perceptron - Kernalized Support Vector Machines (SVM) - (Character
-recognition using Classification) - Ensemble Learning - Bagging and Boosting - Random Forest
-- Probabilistic models: Naïve Bayes Classifier.
+recognition using Classification) - Ensemble Learning - Bagging and Boosting - Random Forest - Probabilistic models: Naïve Bayes Classifier.
 
 ### Module 4: Distance Based Models
 Distance Based Models: - K-Nearest Neighbors - Variants of K-Means Algorithm (Clustering
