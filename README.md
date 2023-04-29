@@ -36,7 +36,14 @@ Cross Validation - Grid Search - Evaluation Metrics and Scoring of Classificatio
 and Clustering Models - Loss Functions and Regularization (Model Evaluation using Air
 pollution Data)
 
-<hr>
+<hr/>
+
+## Contact
+
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
+
+<hr/>
 
 ### Star ⭐ this repository for Future use :)
 
