@@ -2,6 +2,20 @@
 
 Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
+## Topics
+
+1) [Exploratory Data Analysis](/Notebooks/01a_Exploratory_Data_Analysis.ipynb)
+2) [Preprocessing](/Notebooks/01b_Pre_Process.ipynb)
+3) [Feature Engineering](/Notebooks/02_Feature_Engineering.ipynb)
+4) [Regression](/Notebooks/03_Regression.ipynb)
+5) [Single Layer Perceptron](/Notebooks/04_SLP.ipynb)
+6) [Multi Layer Perceptron](/Notebooks/05_MLP.ipynb)
+7) [Agglomerative Clustering](/Notebooks/06_Agglomerative.ipynb)
+8) [Fuzzy C-means](/Notebooks/07_FCM.ipynb)
+9) [Self Organising Map](/Notebooks/08_SOM.ipynb)
+10) [Apriori Algorithm](/Notebooks/09_Apriori.ipynb)
+11) [Ensemble Learning Approach](/Notebooks/10_Ensemble.ipynb)
+
 ### Module 1: Introduction and Concept Learning
 Types of Machine Learning - Examples of Machine Learning Problems - Models and Data -
 Characteristics of Machine learning model - Concept Learning: Theory of Generalization -
