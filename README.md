@@ -26,8 +26,8 @@ Machine learning is a branch of artificial intelligence (AI) and computer scienc
 [![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://github.com/Ruban2205/Python-Programs)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/Ruban2205/Python-Programs)
 
-[![Jupyter-Notebook]()](https://github.com/Ruban2205/Python-Programs)
-[![Visual-Studio-Code]()](https://github.com/Ruban2205/Python-Programs)
+[![Jupyter-Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/Ruban2205/Python-Programs)
+[![Visual-Studio-Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/Ruban2205/Python-Programs)
 
 
 ## Modules 📂
