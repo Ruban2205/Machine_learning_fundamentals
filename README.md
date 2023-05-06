@@ -16,6 +16,20 @@ Machine learning is a branch of artificial intelligence (AI) and computer scienc
 10) [Apriori Algorithm](/Notebooks/09_Apriori.ipynb)
 11) [Ensemble Learning Approach](/Notebooks/10_Ensemble.ipynb)
 
+## Languages and Tools ⚙️🖥️
+
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/Ruban2205/Python-Programs)
+
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Ruban2205/Python-Programs)
+[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/Ruban2205/Python-Programs)
+[![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/Ruban2205/Python-Programs)
+[![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://github.com/Ruban2205/Python-Programs)
+[![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/Ruban2205/Python-Programs)
+
+[![Jupyter-Notebook]()](https://github.com/Ruban2205/Python-Programs)
+[![Visual-Studio-Code]()](https://github.com/Ruban2205/Python-Programs)
+
+
 ## Modules 📂
 
 ### Module 1: Introduction and Concept Learning
