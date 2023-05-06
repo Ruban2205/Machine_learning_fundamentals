@@ -16,6 +16,10 @@ Machine learning is a branch of artificial intelligence (AI) and computer scienc
 10) [Apriori Algorithm](/Notebooks/09_Apriori.ipynb)
 11) [Ensemble Learning Approach](/Notebooks/10_Ensemble.ipynb)
 
+### Simplified Notebooks 🗒️🗒️
+1) [Data Preprocessing](/Simplified_Notebook/ML_Data_Preprocessing.ipynb)
+2) [Data Models](/Simplified_Notebook/ML_Models.ipynb)
+
 ## Languages and Tools ⚙️🖥️
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/Ruban2205/Python-Programs)
