@@ -2,6 +2,8 @@
 
 Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
+This repository contains Simplified notebook. Which has the simplified version of the Data Preprocessing and Data Model files. 
+
 ## Topics 📄
 
 1) [Exploratory Data Analysis](/Notebooks/01a_Exploratory_Data_Analysis.ipynb)
