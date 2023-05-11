@@ -72,6 +72,10 @@ Cross Validation - Grid Search - Evaluation Metrics and Scoring of Classificatio
 and Clustering Models - Loss Functions and Regularization (Model Evaluation using Air
 pollution Data)
 
+## LICENCE 
+
+This repository is released under MIT Licence. See [LICENCE](/LICENCE) for more details. 
+
 <hr/>
 
 ## Contact ☎️📞
