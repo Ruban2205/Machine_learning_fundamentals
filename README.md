@@ -118,15 +118,23 @@ If you have any questions or feedback, please don't hesitate to reach out. Happy
 
 <hr/>
 
-## Contact ☎️📞
+## Contact ☎️
+
+If you have any questions, suggestions, or feedback regarding this repository, please feel free to reach out. You can contact the repository owner, [Ruban2205](https://github.com/Ruban2205), through the following channels. 
+
+- GitHub: [Ruban2205](https://github.com/Ruban2205)
+- Email: [info@rubangino.in](https://mailto:info@rubangino.in/)
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban-gino-singh/)
 
-<hr/>
+Please allow some time for a response, as the owner have other commitments. 
+Constructive feedback and contributions are highly appreciated. 
 
-### Star ⭐ this repository for Future use :)
+Thank you for your interest in this repository!
+
+### Star ⭐ this repository for Future use 😊
 
 Click below to gift 🎁 a book to me.
 
