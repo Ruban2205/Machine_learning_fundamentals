@@ -92,6 +92,14 @@ jupyter lab
 
 5. Follow the instructions provided in the notebook to learn about the specific topic or technique and execute the code examples.
 
+## 📋 Requirements
+
+The notebooks in this repository are implemented using Python. To run them successfully, you need to have the following dependencies installed:
+
+- Python (version 3.6 or later)
+- Jupyter Notebook or JupyterLab
+- Required libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, and any additional libraries mentioned in the notebooks.
+
 ## LICENCE 
 
 This repository is released under MIT Licence. See [LICENCE](/LICENCE) for more details. 
