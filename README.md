@@ -65,6 +65,33 @@ This notebook focuses on different types of machine learning models. It provides
 
 ## 🚀 Getting Started
 
+To get started with the materials in this repository, you can follow these steps:
+
+1. Clone the repository to your local machine using the following command:
+```
+git clone https://github.com/Ruban2205/Machine_learning_fundamentals.git
+```
+
+2. Navigate to the cloned directory:
+```
+cd Machine_learning_fundamentals
+```
+
+3. Explore the notebooks in the repository using a Jupyter Notebook or JupyterLab environment. You can launch the environment by running the following command:
+```
+jupyter notebook
+```
+
+or 
+
+```
+jupyter lab
+```
+
+4. Open the desired notebook from the list of topics or simplified notebooks.
+
+5. Follow the instructions provided in the notebook to learn about the specific topic or technique and execute the code examples.
+
 ## LICENCE 
 
 This repository is released under MIT Licence. See [LICENCE](/LICENCE) for more details. 
