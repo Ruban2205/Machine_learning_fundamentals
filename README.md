@@ -8,16 +8,37 @@ This repository contains a collection of fundamental topics and techniques in ma
 ## 📚 Topics Covered
 
 1) [Exploratory Data Analysis](/Notebooks/01a_Exploratory_Data_Analysis.ipynb)
+Exploratory Data Analysis (EDA) is the process of analyzing and visualizing data to understand its main characteristics. It involves summarizing the main features of the dataset, identifying patterns, and detecting outliers or missing values. EDA helps in gaining insights and formulating hypotheses before applying more advanced modeling techniques.
+
 2) [Preprocessing](/Notebooks/01b_Pre_Process.ipynb)
+Preprocessing is the initial step in preparing data for machine learning models. It involves transforming raw data into a format suitable for analysis. Preprocessing techniques include handling missing values, encoding categorical variables, scaling numerical features, and normalizing data. Proper preprocessing can improve the quality of the data and enhance the performance of machine learning algorithms.
+
 3) [Feature Engineering](/Notebooks/02_Feature_Engineering.ipynb)
+Feature Engineering refers to the process of creating new features or modifying existing ones to improve the performance of machine learning models. It involves selecting relevant features, creating interaction terms, transforming variables, and extracting useful information from the data. Feature engineering can help uncover hidden patterns, reduce dimensionality, and enhance the predictive power of models.
+
 4) [Regression](/Notebooks/03_Regression.ipynb)
+Regression is a supervised learning technique used for predicting continuous numerical values based on input features. It aims to establish a mathematical relationship between the dependent variable and one or more independent variables. Regression models estimate the parameters that best fit the data and can be used for both linear and non-linear relationships.
+
 5) [Single Layer Perceptron](/Notebooks/04_SLP.ipynb)
+The Single Layer Perceptron is one of the simplest neural network architectures. It consists of a single layer of artificial neurons (perceptrons) that are connected to the input features. The perceptrons compute weighted sums of the inputs and apply an activation function to produce output predictions. Single Layer Perceptrons are primarily used for binary classification tasks.
+
 6) [Multi Layer Perceptron](/Notebooks/05_MLP.ipynb)
+The Multi Layer Perceptron (MLP) is a type of artificial neural network with multiple layers of perceptrons. It consists of an input layer, one or more hidden layers, and an output layer. Each perceptron in the network applies a non-linear activation function to the weighted sum of its inputs. MLPs can be used for various tasks, including classification, regression, and pattern recognition.
+
 7) [Agglomerative Clustering](/Notebooks/06_Agglomerative.ipynb)
+Agglomerative Clustering is a hierarchical clustering technique used to group similar data points into clusters. It starts with each data point as a separate cluster and gradually merges them based on their similarity. The process continues until all data points belong to a single cluster or a predefined number of clusters is reached. Agglomerative Clustering produces a dendrogram, which can be used to determine the optimal number of clusters.
+
 8) [Fuzzy C-means](/Notebooks/07_FCM.ipynb)
+Fuzzy C-means is a clustering algorithm that assigns data points to clusters based on the degree of membership. Unlike traditional clustering algorithms, Fuzzy C-means allows data points to belong to multiple clusters simultaneously. Each data point is assigned a membership value indicating its degree of association with each cluster. Fuzzy C-means is particularly useful when dealing with data that exhibits overlapping patterns or uncertain boundaries.
+
 9) [Self Organising Map](/Notebooks/08_SOM.ipynb)
+A Self Organising Map (SOM), also known as a Kohonen map, is an unsupervised learning algorithm used for visualizing and clustering high-dimensional data. It creates a low-dimensional representation of the input space, where similar data points are mapped closer together. SOMs are often used for exploratory data analysis, pattern recognition, and data visualization tasks.
+
 10) [Apriori Algorithm](/Notebooks/09_Apriori.ipynb)
+The Apriori algorithm is a popular algorithm for association rule mining in large datasets. It discovers interesting relationships or associations between different items in a dataset. The algorithm uses a measure called support to identify itemsets that occur together frequently. These itemsets are then used to generate association rules that provide insights into the dependencies between items.
+
 11) [Ensemble Learning Approach](/Notebooks/10_Ensemble.ipynb)
+Ensemble learning is a technique that combines multiple individual models to make more accurate predictions. It leverages the diversity of different models to improve overall performance. Ensemble methods such as bagging, boosting, and stacking are commonly used. They can be applied to various machine learning tasks, including classification, regression, and anomaly detection.
 
 ### Simplified Notebooks 🗒️🗒️
 1) [Data Preprocessing](/Simplified_Notebook/ML_Data_Preprocessing.ipynb)
