@@ -1,10 +1,11 @@
-# Machine Learning - Fundamentals 👨‍💻
+# 💻 Machine Learning Fundamentals
 
 Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
-This repository contains Simplified notebook. Which has the simplified version of the Data Preprocessing and Data Model files. 
+This repository contains a collection of fundamental topics and techniques in machine learning. It aims to provide a comprehensive understanding of various aspects of machine learning through simplified notebooks. Each topic is covered in a separate notebook, allowing for easy exploration and learning.
 
-## Topics 📄
+
+## 📚 Topics Covered
 
 1) [Exploratory Data Analysis](/Notebooks/01a_Exploratory_Data_Analysis.ipynb)
 2) [Preprocessing](/Notebooks/01b_Pre_Process.ipynb)
