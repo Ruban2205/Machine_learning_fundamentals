@@ -100,9 +100,21 @@ The notebooks in this repository are implemented using Python. To run them succe
 - Jupyter Notebook or JupyterLab
 - Required libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, and any additional libraries mentioned in the notebooks.
 
-## LICENCE 
 
-This repository is released under MIT Licence. See [LICENCE](/LICENCE) for more details. 
+## 🤝 Contributions
+
+Contributions to this repository are welcome. If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request. Together, we can make this resource more valuable for the machine learning community.
+
+
+## 📄 License
+
+The contents of this repository are licensed under the MIT LICENCE. Feel free to use and modify the materials for educational or personal purposes. See [LICENCE](/LICENCE) for more details.
+
+## 🙏 Acknowledgments
+
+I would like to acknowledge myself, [Ruban Gino Singh](https://rubangino.in/), as the sole contributor and author of this repository. I would also like to express my gratitude to the open-source community for providing valuable resources and inspiration.
+
+If you have any questions or feedback, please don't hesitate to reach out. Happy learning!
 
 <hr/>
 
@@ -116,7 +128,7 @@ This repository is released under MIT Licence. See [LICENCE](/LICENCE) for more 
 
 ### Star ⭐ this repository for Future use :)
 
-Click below to gift🎁 a book to me.
+Click below to gift 🎁 a book to me.
 
 [![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)
 ](https://bit.ly/3M5jxLd)
