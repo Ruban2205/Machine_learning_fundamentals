@@ -108,7 +108,7 @@ Contributions to this repository are welcome. If you find any issues or have sug
 
 ## 📄 License
 
-The contents of this repository are licensed under the MIT LICENCE. Feel free to use and modify the materials for educational or personal purposes. See [LICENCE](/LICENCE) for more details.
+The contents of this repository are licensed under the MIT LICENSE. Feel free to use and modify the materials for educational or personal purposes. See [LICENSE](/LICENSE) for more details.
 
 ## 🙏 Acknowledgments
 
